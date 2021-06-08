@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4d25fae-184e-4220-a558-ad8788dbf124" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nwJhxGITvmoWvEB8ftcHh7XfDx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.SelectEntriesBasedOnValueTest.selectEntriesTest">
+    <configuration name="PracticeQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQuestion" />
+      <module name="PracticeQuestion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveEntryTest.removeEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeQuestion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RemoveEntryTest" />
+      <option name="METHOD_NAME" value="removeEntry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectEntriesBasedOnValueTest.selectEntriesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeQuestion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SelectEntriesBasedOnValueTest" />
+      <option name="METHOD_NAME" value="selectEntriesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableCreateTest.createTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeQuestion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TableCreateTest" />
+      <option name="METHOD_NAME" value="createTableTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tableDemoTest.tableDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeQuestion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tableDemoTest" />
+      <option name="METHOD_NAME" value="tableDemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SelectEntriesBasedOnValueTest.selectEntriesTest" />
+        <item itemvalue="JUnit.RemoveEntryTest.removeEntry" />
+        <item itemvalue="JUnit.TableCreateTest.createTableTest" />
+        <item itemvalue="JUnit.tableDemoTest.tableDemo" />
+        <item itemvalue="Application.PracticeQuestion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4d25fae-184e-4220-a558-ad8788dbf124" name="Default Changelist" comment="" />
+      <created>1612295342857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612295342857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1612332219130">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state x="453" y="86" key="#com.intellij.ide.util.MemberChooser/0.25.1280.737@0.25.1280.737" timestamp="1612332219130" />
+    <state width="1238" height="239" key="GridCell.Tab.0.bottom" timestamp="1612335169386">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="239" key="GridCell.Tab.0.bottom/0.25.1280.737@0.25.1280.737" timestamp="1612335169386" />
+    <state width="1238" height="239" key="GridCell.Tab.0.center" timestamp="1612335169384">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="239" key="GridCell.Tab.0.center/0.25.1280.737@0.25.1280.737" timestamp="1612335169384" />
+    <state width="1238" height="239" key="GridCell.Tab.0.left" timestamp="1612335169383">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="239" key="GridCell.Tab.0.left/0.25.1280.737@0.25.1280.737" timestamp="1612335169383" />
+    <state width="1238" height="239" key="GridCell.Tab.0.right" timestamp="1612335169384">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="239" key="GridCell.Tab.0.right/0.25.1280.737@0.25.1280.737" timestamp="1612335169384" />
+    <state width="1238" height="227" key="GridCell.Tab.1.bottom" timestamp="1612332957637">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.bottom/0.25.1280.737@0.25.1280.737" timestamp="1612332957637" />
+    <state width="1238" height="227" key="GridCell.Tab.1.center" timestamp="1612332957632">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.center/0.25.1280.737@0.25.1280.737" timestamp="1612332957632" />
+    <state width="1238" height="227" key="GridCell.Tab.1.left" timestamp="1612332957632">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.left/0.25.1280.737@0.25.1280.737" timestamp="1612332957632" />
+    <state width="1238" height="227" key="GridCell.Tab.1.right" timestamp="1612332957636">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.right/0.25.1280.737@0.25.1280.737" timestamp="1612332957636" />
+    <state x="27" y="92" key="new project wizard" timestamp="1612325621460">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state x="27" y="92" key="new project wizard/0.25.1280.737@0.25.1280.737" timestamp="1612325621460" />
+    <state x="305" y="86" width="670" height="676" key="search.everywhere.popup" timestamp="1612332478048">
+      <screen x="0" y="25" width="1280" height="737" />
+    </state>
+    <state x="305" y="86" width="670" height="676" key="search.everywhere.popup/0.25.1280.737@0.25.1280.737" timestamp="1612332478048" />
+  </component>
+</project>
