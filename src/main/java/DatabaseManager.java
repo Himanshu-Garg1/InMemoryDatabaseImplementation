@@ -21,7 +21,7 @@ public class DatabaseManager {
     {
         if(databaseMap.containsKey(dbName))
         {
-            System.out.println("the db with same exists, Please try different name");
+            System.out.println("the db with same name exists, Please try different name");
             return null;
         }
         else {
