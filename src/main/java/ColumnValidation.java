@@ -8,7 +8,7 @@ public class ColumnValidation {
         }
         else
         {
-            System.out.println("the Value size is greater than 20");
+            System.out.println("the Value size is greater than 20 for branch main");
             return false;
         }
 
